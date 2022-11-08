@@ -21,4 +21,5 @@ public class MainActivity extends AppCompatActivity {
     public void TestLocalAndRemote2() {
         Log.d("MainActivity", "this is testLocalAndRemote");
     }
+    public void test3(){}
 }
