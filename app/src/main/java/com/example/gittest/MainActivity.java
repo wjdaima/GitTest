@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void Log(String str) {
         Log.d("MainActivity", str);
     }
+    public void TestLocalAndRemote() {
+        Log.d("MainActivity", "this is testLocalAndRemote");
+    }
 }
